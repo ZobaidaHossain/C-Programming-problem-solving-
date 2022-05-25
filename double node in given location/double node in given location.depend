@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1604156466 source:h:\double node in given location\main.c
+	<stdio.h>
+	<stdlib.h>
+
