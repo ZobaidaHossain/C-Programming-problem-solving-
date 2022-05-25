@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main(){
+    int i,a[100],n;
+    scanf("%d",&n);
+   for(i=0;i<3;i++){
+    printf("element-%d:",i);
+    scanf("%d",&a[i]);
+   printf("\nThe values store into the array are :",a[i]);
+   }
+}
